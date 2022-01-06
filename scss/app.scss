@@ -1,0 +1,15 @@
+@import 'variables.scss';
+@import 'mixins.scss';
+
+html {
+    font-size: 65.2%;
+    box-sizing: border-box;
+}
+
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 1.6rem;
+}
